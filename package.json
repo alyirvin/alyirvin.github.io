@@ -1,11 +1,42 @@
 {
+  "type": "module",
   "name": "portfolio",
   "version": "1.0.0",
   "description": "<img width=\"80%\" align=\"center\" src=\"https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/portfolio_mockup.png\" alt=\"portfolio template mockup\" /> <br/> <img height=\"350px\" align=\"right\" src=\"https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/mobile-demo.gif\" alt=\"portfolio mobile demo gif\"/>",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@iconify/icons-logos": "^1.2.36",
+    "@iconify/react": "^4.1.1",
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1",
+    "react": "^18.2.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-bootstrap": "^2.10.1",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "react-switch": "^7.0.0",
+    "react-typical": "^0.1.3",
+    "react-vertical-timeline-component": "^3.6.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.71.1"
+  }
 }
