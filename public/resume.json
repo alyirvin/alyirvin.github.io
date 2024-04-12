@@ -1,0 +1,261 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "Welcome to my portfolio! I'm Alysha, a senior dual-degree student studying Mechanical Engineering and Biomedical sciences, with a minor in Computer Science. I'm excited to announce my upcoming pursuit of a Master's of Science in Computer Science starting this fall! Take a moment to explore my page and discover what I've been working on. Alongside my personal work, you'll find some of the recent projects I've collaborated on with my team, Girls Who Can't Code. We're a group of unconventional programmers dedicated to honing our skills and embracing an interdisciplinary approach to programming. Thanks for stopping by 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Recent Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "testing_info": {
+      "description_header": "Testing",
+      "description": "Testing",
+      "section_name": {
+        "about": "Testing",
+        "projects": "Testing",
+        "skills": "Testing",
+        "experience": "Testing"
+      }
+    },
+    "projects": [
+      {
+        "title": "Autonomous Glider",
+        "startDate": "2023-2024",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/ugg/p1.jpg",
+          "images/portfolio/ugg/p3.gif",
+          "images/portfolio/ugg/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-jira-plain",
+            "name": "Jira"
+          },
+          {
+            "class": "devicon-raspberrypi-plain",
+            "name": "Raspberry Pi"
+          }
+        ]
+      },
+      {
+        "title": "SharkBytes",
+        "startDate": "2024",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/sharkbytes/p1.png",
+          "images/portfolio/sharkbytes/p2.gif"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+          ,
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-mysql-original",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Cubedle",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/cubedle/p1.png",
+          "images/portfolio/cubedle/p2.gif"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Naval Nuclear Laboratory",
+        "title": "Mechanical Engineering Intern",
+        "years": "05.2024 - 08.2024",
+        "mainTech": [
+          "Internship"
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "UCF College of Engineering and Computer Science",
+        "title": "Undergraduate Teaching Assistant",
+        "years": "01.2023 - 05.2024",
+        "mainTech": [
+          "Work Experience"
+        ],
+        "technologies": [
+          "Heat Transfer",
+          "Solid Mechanics",
+          "Grader",
+          "Proctor",
+          "Office Hours",
+          "Score Clarification",
+          "Rubric Creation",
+          "Student Work Encryption"
+        ]
+      },
+      {
+        "company": "First Step",
+        "title": "Mentor",
+        "years": "09.2023 - 05.2024",
+        "mainTech": [
+          "Campus Leadership"
+        ],
+        "technologies": [
+          "Mentorship",
+          "Engineering",
+          "Computer Science",
+          "Professional Development"
+        ]
+      },
+      {
+        "company": "Honors Congress",
+        "title": "President",
+        "years": "08.2020 - 12.2023",
+        "mainTech": [
+          "Campus Leadership"
+        ],
+        "technologies": [
+          "Director of Academics",
+          "Committee Member",
+          "Recruitment and Membership",
+          "Executive Board",
+          "Collaboration"
+        ]
+      },
+      {
+        "company": "UCF Burnett Honors College",
+        "title": "Team Leader",
+        "years": "08.2023 - 12.2023",
+        "mainTech": [
+          "Campus Leadership"
+        ],
+        "technologies": [
+          "Teaching",
+          "Grader",
+          "Socials",
+          "Networking",
+          "Professional Development"
+        ]
+      },
+      {
+        "company": "National Security Innovation Network",
+        "title": "X-Force Fellow",
+        "years": "06.2023 - 08.2023",
+        "mainTech": [
+          "Internship"
+        ],
+        "technologies": [
+          "Research",
+          "Topological Insulators",
+          "Radiation Effects",
+          "Cryogenics",
+          "Signal Amplification",
+          "Experiment Design",
+          "SQUIDs"
+        ]
+      },
+      {
+        "company": "University Honors Committee",
+        "title": "Student Committee Member",
+        "years": "06.2022 - 06.2023",
+        "mainTech": [
+          "Campus Leadership"
+        ],
+        "technologies": [
+          "Faculty Collaboration",
+          "Communication",
+          "Seminar Review",
+          "Constructive Feedback"
+        ]
+      },
+      {
+        "company": "Tau Beta Pi",
+        "title": "Acting President",
+        "years": "03.2022 - 05.2023",
+        "mainTech": [
+          "Campus Leadership"
+        ],
+        "technologies": [
+          "Vice President",
+          "Executive Board",
+          "Socials",
+          "Professional Development",
+          "Engineering Honor Society"
+        ]
+      },
+      {
+        "company": "Hybrid Materials and Surface Lab",
+        "title": "Undergraduate Researcher",
+        "years": "08.2020 - 12.2022",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "Mechanical Engineering",
+          "Biomedical Engineering",
+          "Materials Science",
+          "Poster Presentations",
+          "Award Winning",
+          "Grants"
+        ]
+      },
+      {
+        "company": "UCF Undergraduate Admissions",
+        "title": "Campus Ambassador",
+        "years": "05.2022 - 08.2022",
+        "mainTech": [
+          "Work Experience"
+        ],
+        "technologies": [
+          "Team Player",
+          "Tour Guide",
+          "Open Houses"
+        ]
+      }
+    ]
+  }
+  
