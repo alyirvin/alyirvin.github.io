@@ -1,16 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.scss';
-import App from './App.js';
-import * as serviceWorker from './serviceWorker.js';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import React from "react"
+import ReactDOM from "react-dom/client"
+import App from "./App"
+import "./styles.css"
+import { BrowserRouter } from "react-router-dom"
 
-/* GLOBAL VARIABLES */
-
-window.$primaryLanguage = 'en';
-window.$secondaryLanguage = 'pl';
-window.$primaryLanguageIconId = 'primary-lang-icon';
-window.$secondaryLanguageIconId = 'secondary-lang-icon';
-
-ReactDOM.render(<App />, document.getElementById('root'));
-serviceWorker.register();
+const root = ReactDOM.createRoot(document.getElementById("root"))
+root.render(
+  <React.StrictMode>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </React.StrictMode>
+)
