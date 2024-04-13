@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.de834b17.css",
+    "main.css": "./static/css/main.5c3499c7.css",
     "main.js": "./static/js/main.04c0f1d3.js",
     "static/media/Honors_Congress.JPG": "./static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
     "static/media/About1.JPG": "./static/media/About1.928a2fa4f49e3edbb81e.JPG",
@@ -19,11 +19,11 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.de834b17.css.map": "./static/css/main.de834b17.css.map",
+    "main.5c3499c7.css.map": "./static/css/main.5c3499c7.css.map",
     "main.04c0f1d3.js.map": "./static/js/main.04c0f1d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.de834b17.css",
+    "static/css/main.5c3499c7.css",
     "static/js/main.04c0f1d3.js"
   ]
 }
