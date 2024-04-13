@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://alyirvin.github.io/portfolio",
+  "name": "react-navbar",
+  "homepage": ".",
   "version": "0.1.0",
   "private": false,
   "dependencies": {

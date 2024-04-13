@@ -1277,3 +1277,16 @@ li {
   right: 0;
   bottom: 0;
 }
+
+experiencepage
+{
+  background-color: #e9d5a1;
+}
+
+.ticket 
+{
+  background-image: url("./expImgs/blankTicket.png");
+  background-size: cover;
+  width: 70%;
+  height: 40%;
+}
