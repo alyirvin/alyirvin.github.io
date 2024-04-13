@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/alyirvin.github.io/portfolio/static/css/main.1c9079b1.css",
-    "main.js": "/alyirvin.github.io/portfolio/static/js/main.7709f3d0.js",
-    "static/media/Honors_Congress.JPG": "/alyirvin.github.io/portfolio/static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
-    "static/media/About1.JPG": "/alyirvin.github.io/portfolio/static/media/About1.928a2fa4f49e3edbb81e.JPG",
-    "static/media/About5.JPG": "/alyirvin.github.io/portfolio/static/media/About5.b6e2ae6e5512b7dd06df.JPG",
-    "static/media/Team_Leaders.jpg": "/alyirvin.github.io/portfolio/static/media/Team_Leaders.4caee2864abad2ec701d.jpg",
-    "static/media/About3.jpeg": "/alyirvin.github.io/portfolio/static/media/About3.71a51359a0597a86153a.jpeg",
-    "static/media/About2.jpeg": "/alyirvin.github.io/portfolio/static/media/About2.163c81615e1a478f47e3.jpeg",
-    "static/media/About4.jpg": "/alyirvin.github.io/portfolio/static/media/About4.c1fd33b180afb24afcaf.jpg",
-    "static/media/London_Bridge.jpg": "/alyirvin.github.io/portfolio/static/media/London_Bridge.86923dbac26a3b189689.jpg",
-    "static/media/tornPaper.png": "/alyirvin.github.io/portfolio/static/media/tornPaper.d31560c7b6af73aa336d.png",
-    "static/media/postCard.png": "/alyirvin.github.io/portfolio/static/media/postCard.753c5125dcba6f6d3941.png",
-    "static/media/slick.svg": "/alyirvin.github.io/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/alyirvin.github.io/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/alyirvin.github.io/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/alyirvin.github.io/portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/alyirvin.github.io/portfolio/index.html",
-    "main.1c9079b1.css.map": "/alyirvin.github.io/portfolio/static/css/main.1c9079b1.css.map",
-    "main.7709f3d0.js.map": "/alyirvin.github.io/portfolio/static/js/main.7709f3d0.js.map"
+    "main.css": "/portfolio/static/css/main.42f46816.css",
+    "main.js": "/portfolio/static/js/main.af2c01a4.js",
+    "static/media/Honors_Congress.JPG": "/portfolio/static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
+    "static/media/About1.JPG": "/portfolio/static/media/About1.928a2fa4f49e3edbb81e.JPG",
+    "static/media/About5.JPG": "/portfolio/static/media/About5.b6e2ae6e5512b7dd06df.JPG",
+    "static/media/Team_Leaders.jpg": "/portfolio/static/media/Team_Leaders.4caee2864abad2ec701d.jpg",
+    "static/media/About3.jpeg": "/portfolio/static/media/About3.71a51359a0597a86153a.jpeg",
+    "static/media/About2.jpeg": "/portfolio/static/media/About2.163c81615e1a478f47e3.jpeg",
+    "static/media/About4.jpg": "/portfolio/static/media/About4.c1fd33b180afb24afcaf.jpg",
+    "static/media/London_Bridge.jpg": "/portfolio/static/media/London_Bridge.86923dbac26a3b189689.jpg",
+    "static/media/tornPaper.png": "/portfolio/static/media/tornPaper.d31560c7b6af73aa336d.png",
+    "static/media/postCard.png": "/portfolio/static/media/postCard.753c5125dcba6f6d3941.png",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio/index.html",
+    "main.42f46816.css.map": "/portfolio/static/css/main.42f46816.css.map",
+    "main.af2c01a4.js.map": "/portfolio/static/js/main.af2c01a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c9079b1.css",
-    "static/js/main.7709f3d0.js"
+    "static/css/main.42f46816.css",
+    "static/js/main.af2c01a4.js"
   ]
 }
