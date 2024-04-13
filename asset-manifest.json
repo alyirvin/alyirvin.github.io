@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.d5a8546c.css",
-    "main.js": "./static/js/main.cc46576d.js",
+    "main.css": "./static/css/main.bc8caaa2.css",
+    "main.js": "./static/js/main.26bed984.js",
     "static/media/Honors_Congress.JPG": "./static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
     "static/media/About1.JPG": "./static/media/About1.928a2fa4f49e3edbb81e.JPG",
     "static/media/About5.JPG": "./static/media/About5.b6e2ae6e5512b7dd06df.JPG",
@@ -11,17 +11,18 @@
     "static/media/About4.jpg": "./static/media/About4.c1fd33b180afb24afcaf.jpg",
     "static/media/London_Bridge.jpg": "./static/media/London_Bridge.86923dbac26a3b189689.jpg",
     "static/media/tornPaper.png": "./static/media/tornPaper.d31560c7b6af73aa336d.png",
+    "static/media/blankTicket.png": "./static/media/blankTicket.b47d9c0e8a2d0b26f285.png",
     "static/media/postCard.png": "./static/media/postCard.753c5125dcba6f6d3941.png",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.d5a8546c.css.map": "./static/css/main.d5a8546c.css.map",
-    "main.cc46576d.js.map": "./static/js/main.cc46576d.js.map"
+    "main.bc8caaa2.css.map": "./static/css/main.bc8caaa2.css.map",
+    "main.26bed984.js.map": "./static/js/main.26bed984.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a8546c.css",
-    "static/js/main.cc46576d.js"
+    "static/css/main.bc8caaa2.css",
+    "static/js/main.26bed984.js"
   ]
 }
