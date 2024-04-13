@@ -177,6 +177,10 @@
                 {
                     "icon": "devicon-css3-plain",
                     "name": "CSS"
+                },
+                {
+                    "icon": "devicon-putty-plain",
+                    "name": "PuTTY"
                 }
             ]
         },
@@ -191,6 +195,10 @@
             ],
             "url": "rocket.url",
             "technologies": [
+                {
+                    "icon": "devicon-trello-plain",
+                    "name": "Trello"
+                }
             ]
         },
         {
