@@ -1297,7 +1297,7 @@ li {
   text-align: center; */
 }
 
-.expTicket #navy
+.expTicket#navy
 {
   display: grid;
   grid-template-areas: 
