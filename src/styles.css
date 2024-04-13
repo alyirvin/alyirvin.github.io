@@ -1375,13 +1375,14 @@ li {
 
 #navy .admit {
   grid-area: admit;
-  transform: rotate(-90deg);
-  height: 90px;
-  width: 190px;
-  background-color: #bee5ce;
+  background-color: #c9e2d4;
   border-radius: 15px;
-  color: white;
-  justify-self: end;
-  font-weight: bold;
+  color: #DBE9E1;
   font-size: 27pt;
+  font-weight: 700;
+  height: 90px;
+  justify-self: end;
+  transform: rotate(-90deg);
+  width: 190px;
+  margin: -22px -38px 0 0;
 }
