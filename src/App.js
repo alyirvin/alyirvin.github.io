@@ -4,7 +4,7 @@ import Leadership from "./pages/Leadership"
 import Experience from "./pages/Experience"
 import Home from "./pages/Home"
 import About from "./pages/About"
-import { Route, Routes } from "react-router-dom"
+import { HashRouter as Router, Route, Routes } from "react-router-dom"
 import Footer from "./Footer"
 
 
