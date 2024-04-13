@@ -21,9 +21,9 @@ function Experience() {
 
   let exps;
 
-  if (expData.experiences)
+  if (expData.experience)
   {
-    exps = expData.experiences.map(function (exp, index) {
+    exps = expData.experience.map(function (exp, index) {
       return(
         <div className="expTicket">
             <div className="exp-company">{exp.company}</div>
@@ -38,21 +38,23 @@ function Experience() {
 
   return (
     <experiencepage>
-      <Card>
-      <Card.Header></Card.Header>
-      <Card.Body>
-        <blockquote className="blockquote mb-0">
-          <p style={{marginTop: 5, marginBottom: 10}}>
-            {' '}
-            In the pursuit of great, we failed to do good.{' '}
-          </p>
-          <div className="blockquote-footer">
-            Viktor in <cite title="Source Title">Arcane</cite>
-          </div>
-        </blockquote>
-      </Card.Body>
-    </Card>
-    <div className="container">{exps}</div>
+      <div style={{backgroundColor: '#e9d5a1'}}>
+        <Card>
+        <Card.Header></Card.Header>
+        <Card.Body>
+          <blockquote className="blockquote mb-0">
+            <p style={{marginTop: 5, marginBottom: 10}}>
+              {' '}
+              In the pursuit of great, we failed to do good.{' '}
+            </p>
+            <div className="blockquote-footer">
+              Viktor in <cite title="Source Title">Arcane</cite>
+            </div>
+          </blockquote>
+        </Card.Body>
+      </Card>
+      <div className="container">{exps}</div>
+    </div>
   </experiencepage>
   )
 }
