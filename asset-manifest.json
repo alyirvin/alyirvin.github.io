@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.d5a8546c.css",
-    "main.js": "./static/js/main.98a13561.js",
-    "static/media/Honors_Congress.JPG": "./static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
-    "static/media/About1.JPG": "./static/media/About1.928a2fa4f49e3edbb81e.JPG",
-    "static/media/About5.JPG": "./static/media/About5.b6e2ae6e5512b7dd06df.JPG",
-    "static/media/Team_Leaders.jpg": "./static/media/Team_Leaders.4caee2864abad2ec701d.jpg",
-    "static/media/About3.jpeg": "./static/media/About3.71a51359a0597a86153a.jpeg",
-    "static/media/About2.jpeg": "./static/media/About2.163c81615e1a478f47e3.jpeg",
-    "static/media/About4.jpg": "./static/media/About4.c1fd33b180afb24afcaf.jpg",
-    "static/media/London_Bridge.jpg": "./static/media/London_Bridge.86923dbac26a3b189689.jpg",
-    "static/media/tornPaper.png": "./static/media/tornPaper.d31560c7b6af73aa336d.png",
-    "static/media/postCard.png": "./static/media/postCard.753c5125dcba6f6d3941.png",
-    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "./index.html",
-    "main.d5a8546c.css.map": "./static/css/main.d5a8546c.css.map",
-    "main.98a13561.js.map": "./static/js/main.98a13561.js.map"
+    "main.css": "/portfolio/static/css/main.42f46816.css",
+    "main.js": "/portfolio/static/js/main.af2c01a4.js",
+    "static/media/Honors_Congress.JPG": "/portfolio/static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
+    "static/media/About1.JPG": "/portfolio/static/media/About1.928a2fa4f49e3edbb81e.JPG",
+    "static/media/About5.JPG": "/portfolio/static/media/About5.b6e2ae6e5512b7dd06df.JPG",
+    "static/media/Team_Leaders.jpg": "/portfolio/static/media/Team_Leaders.4caee2864abad2ec701d.jpg",
+    "static/media/About3.jpeg": "/portfolio/static/media/About3.71a51359a0597a86153a.jpeg",
+    "static/media/About2.jpeg": "/portfolio/static/media/About2.163c81615e1a478f47e3.jpeg",
+    "static/media/About4.jpg": "/portfolio/static/media/About4.c1fd33b180afb24afcaf.jpg",
+    "static/media/London_Bridge.jpg": "/portfolio/static/media/London_Bridge.86923dbac26a3b189689.jpg",
+    "static/media/tornPaper.png": "/portfolio/static/media/tornPaper.d31560c7b6af73aa336d.png",
+    "static/media/postCard.png": "/portfolio/static/media/postCard.753c5125dcba6f6d3941.png",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio/index.html",
+    "main.42f46816.css.map": "/portfolio/static/css/main.42f46816.css.map",
+    "main.af2c01a4.js.map": "/portfolio/static/js/main.af2c01a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5a8546c.css",
-    "static/js/main.98a13561.js"
+    "static/css/main.42f46816.css",
+    "static/js/main.af2c01a4.js"
   ]
 }
