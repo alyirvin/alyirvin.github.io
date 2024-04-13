@@ -26,7 +26,7 @@ function Experience() {
   {
     exps = expData.experience.map(function (exp, index) {
       return(
-        <div className="expTicket">
+        <div className="expTicket" id={exp.label}>
             <div className="exp-company">{exp.company}</div>
             <div className="exp-title">{exp.title}</div>
             <div className="exp-years">{exp.years}</div>
