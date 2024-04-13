@@ -1308,6 +1308,7 @@ li {
     "title title title"
     "desc desc desc";
   grid-template-rows: 1fr 2fr 1fr;
+  grid-template-columns: auto 1fr auto;
   align-items: center;
   justify-items: center;
   font-family: 'Montserrat', sans-serif;
@@ -1316,7 +1317,7 @@ li {
 #navy .exp-company {
   grid-area: company;
   justify-self: start;
-  font-size: 14pt;
+  font-size: 13pt;
   border-bottom: 1px solid black;
   border-top: 1px solid black;
   height: 53px;
@@ -1334,6 +1335,8 @@ li {
   height: 50px; 
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+
 #navy .exp-title {
   grid-area: title;
   font-size: 16.5pt;
@@ -1345,13 +1348,14 @@ li {
   display: flex;
   align-items: center;
   margin-top: -20px;
+  font-family: 'Roboto Condensed', sans-serif !important;
 }
 
 #navy .exp-years {
   grid-area: years;
   justify-self: end;
   margin: 19px 135px 0 0;
-  font-size: 14pt;
+  font-size: 13pt;
   border-bottom: 1px solid black;
   border-top: 1px solid black;
   height: 40px;
@@ -1366,4 +1370,13 @@ li {
   margin: -30px 140px 0 20px;
   font-size: 7pt;
   text-align: left;
+}
+
+#navy .admit {
+  transform: rotate(-90deg);
+  height: 50px;
+  width: 50px;
+  background-color: #bee5ce;
+  border-radius: 5px;
+  color: white;
 }
