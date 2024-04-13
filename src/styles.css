@@ -1301,11 +1301,12 @@ li {
 
 .expTicket#navy
 {
+  background-image: url("./expImgs/navyTicket.png") !important;
   display: grid;
   grid-template-areas: 
-    "company years"
-    "title title"
-    "desc desc";
+    "company icon years"
+    "title title title"
+    "desc desc desc";
   grid-template-rows: 1fr 2fr 1fr;
   align-items: center;
   justify-items: center;
@@ -1315,35 +1316,54 @@ li {
 #navy .exp-company {
   grid-area: company;
   justify-self: start;
-  margin: 30px 0 0 15px;
   font-size: 14pt;
   border-bottom: 1px solid black;
   border-top: 1px solid black;
-  height: 40px;
+  height: 53px;
+  margin: 19px 0 0 15px;
+  display: flex;
+  align-items: center;
+}
+
+#navy .exp-icon {
+  grid-area: icon;
+  justify-self: center;
+  align-self: center;
+  background: url('./expImgs/ship.png') no-repeat center;
+  width: 50px; 
+  height: 50px; 
 }
 
 #navy .exp-title {
   grid-area: title;
-  font-size: 21.5pt;
+  font-size: 16.5pt;
   margin-right: 125px;
   font-weight: bold;
   border-bottom: 1px solid black;
-  height: 55px;
+  height: 75px;
+  margin-right: 125px;
+  display: flex;
+  align-items: center;
+  margin-top: -20px;
 }
 
 #navy .exp-years {
   grid-area: years;
   justify-self: end;
-  margin: 30px 135px 0 0;
+  margin: 19px 135px 0 0;
   font-size: 14pt;
-  letter-spacing: 1pt;
   border-bottom: 1px solid black;
   border-top: 1px solid black;
   height: 40px;
+  height: 53px;
+  display: flex;
+  align-items: center;
 }
 
 #navy .exp-desc {
   grid-area: desc;
   justify-self: start;
-  margin-left: 15px;
+  margin: -30px 140px 0 20px;
+  font-size: 7pt;
+  text-align: left;
 }
