@@ -1255,10 +1255,25 @@ li {
 .lead-background 
 {
   background-image: url('./leadImgs/tornPaper.png');
+  width: 600px;
+  height: 240px;
+  position: relative;
+  background-size: contain;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 50px 0;
 }
 
 .lead-quote
 {
-  height: 60px;
-  width: 60px;
+  height: 120px;
+  width: 100px;
+  background-color: #e8d8c3;
+  font-size: 9.5pt;
+  font-family: 'Courier New', Courier, monospace;
+  padding-top: 8px;
+  color: black;
+  position: absolute;
+  right: 0;
+  bottom: 0;
 }

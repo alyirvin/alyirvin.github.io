@@ -119,7 +119,7 @@ function Leadership() {
               transform: isFlipped && selectedLead === lead ? 'scale(1.5) rotateY(180deg)' : 'none',
               transition: 'transform 0.5s ease',
               position: isFlipped && selectedLead === lead ? 'fixed' : 'relative',
-              zIndex: isFlipped && selectedLead === lead ? 9999 : 9,
+              zIndex: isFlipped && selectedLead === lead ? 99 : 9,
             }}>
 
           {isFlipped && selectedLead === lead ? (
@@ -172,7 +172,7 @@ function Leadership() {
         </Card.Body>
       </Card> */}
       <div class="lead-background">
-        <div class="lead-quote">"How lucky I am to have something that makes saying goodbye so hard"</div>
+        <div class="lead-quote">How lucky I am to have something that makes saying goodbye so hard</div>
       </div>
       <div className="row mx-auto" style={{rowGap:30, columnGap:70, width: 1550}}>{leads}</div>
     </leadershippage>
