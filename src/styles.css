@@ -1305,7 +1305,7 @@ li {
   display: grid;
   grid-template-areas: 
     "company icon years"
-    "title title title"
+    "title title admit"
     "desc desc desc";
   grid-template-rows: 1fr 2fr 1fr;
   grid-template-columns: auto 1fr auto;
@@ -1331,8 +1331,9 @@ li {
   justify-self: center;
   align-self: center;
   background: url('./expImgs/ship.png') no-repeat center;
-  width: 50px; 
-  height: 50px; 
+  width: 65px; 
+  height: 65px; 
+  background-size: cover;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
@@ -1373,10 +1374,14 @@ li {
 }
 
 #navy .admit {
+  grid-area: admit;
   transform: rotate(-90deg);
-  height: 50px;
-  width: 50px;
+  height: 90px;
+  width: 190px;
   background-color: #bee5ce;
-  border-radius: 5px;
+  border-radius: 15px;
   color: white;
+  justify-self: end;
+  font-weight: bold;
+  font-size: 27pt;
 }
