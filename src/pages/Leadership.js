@@ -114,7 +114,7 @@ function Leadership() {
             onClick={() => toggleFlip(lead)}
             key={index}
             style={{ 
-              top: isFlipped && selectedLead === lead ? '30%' : '0',
+              top: isFlipped && selectedLead === lead ? '20%' : '0',
               left: isFlipped && selectedLead === lead ? '40%' : '0',
               transform: isFlipped && selectedLead === lead ? 'scale(1.5) rotateY(180deg)' : 'none',
               transition: 'transform 0.5s ease',
