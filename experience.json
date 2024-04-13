@@ -4,25 +4,29 @@
             "company": "Naval Nuclear Laboratory",
             "title": "Mechanical/Chemical Engineering Intern",
             "years": "May 2024 - Aug 2024",
-            "description": "job description goes here"
+            "description": "job description goes here",
+            "label": "navy"
         },
         {
             "company": "DOD National Security Innovation Network",
             "title": "X-Force Fellow",
             "years": "May 2023 - Aug 2023",
-            "description": "x force description goes here"
+            "description": "x force description goes here",
+            "label": "dod"
         },
         {
             "company": "University of Central Florida",
             "title": "Undergraduate Teaching Assistant",
             "years": "Jan 2023 - May 2024",
-            "description": "TA description goes here"
+            "description": "TA description goes here",
+            "label": "uta"
         },
         {
             "company": "Hybrid Materials and Surface Lab",
             "title": "Undergraduate Researcher",
             "years": "Oct 2020 - Dec 2022",
-            "description": "research description goes here"
+            "description": "research description goes here",
+            "label": "lab"
         }
     ]
 }
