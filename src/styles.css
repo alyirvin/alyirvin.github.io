@@ -1298,19 +1298,19 @@ li {
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 
-.expTicket#navy
-{
+.expTicket#navy {
   background-image: url("./expImgs/navyTicket.png") !important;
   display: grid;
   grid-template-areas: 
-    "company icon years"
-    "title title admit"
-    "desc desc desc";
-  grid-template-rows: 1fr 2fr 1fr;
-  grid-template-columns: auto 1fr auto;
-  align-items: center;
-  justify-items: center;
+    "company icon years ."
+    "title title title admit"
+    "desc desc desc .";
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: auto auto auto 1fr;
+  align-items: start;
+  justify-items: start;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -1329,37 +1329,30 @@ li {
 #navy .exp-icon {
   grid-area: icon;
   justify-self: center;
-  align-self: center;
+  align-self: start;
   background: url('./expImgs/ship.png') no-repeat center;
   width: 65px; 
   height: 65px; 
   background-size: cover;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
-
 #navy .exp-title {
   grid-area: title;
   font-size: 16.5pt;
-  margin-right: 125px;
   font-weight: bold;
   border-bottom: 1px solid black;
   height: 75px;
-  margin-right: 125px;
   display: flex;
   align-items: center;
-  margin-top: -20px;
   font-family: 'Roboto Condensed', sans-serif !important;
 }
 
 #navy .exp-years {
   grid-area: years;
   justify-self: end;
-  margin: 19px 135px 0 0;
   font-size: 13pt;
   border-bottom: 1px solid black;
   border-top: 1px solid black;
-  height: 40px;
   height: 53px;
   display: flex;
   align-items: center;
@@ -1368,7 +1361,7 @@ li {
 #navy .exp-desc {
   grid-area: desc;
   justify-self: start;
-  margin: -30px 140px 0 20px;
+  margin: 0 0 0 20px;
   font-size: 7pt;
   text-align: left;
 }
@@ -1381,8 +1374,8 @@ li {
   font-size: 27pt;
   font-weight: 700;
   height: 90px;
-  justify-self: end;
+  justify-self: center;
+  align-self: center;
   transform: rotate(-90deg);
   width: 190px;
-  margin: -22px -38px 0 0;
 }
