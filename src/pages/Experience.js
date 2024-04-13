@@ -39,7 +39,7 @@ function Experience() {
   return (
     <experiencepage>
       <div style={{backgroundColor: '#e9d5a1'}}>
-        <Card>
+        {/* <Card>
         <Card.Header></Card.Header>
         <Card.Body>
           <blockquote className="blockquote mb-0">
@@ -52,7 +52,7 @@ function Experience() {
             </div>
           </blockquote>
         </Card.Body>
-      </Card>
+      </Card> */}
       <div className="tickets">{exps}</div>
     </div>
   </experiencepage>
