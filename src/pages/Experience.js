@@ -21,6 +21,7 @@ function Experience() {
 
   let exps;
 
+  console.log(expData.experience);
   if (expData.experience)
   {
     exps = expData.experience.map(function (exp, index) {
@@ -30,7 +31,6 @@ function Experience() {
             <div className="exp-title">{exp.title}</div>
             <div className="exp-years">{exp.years}</div>
             <div className="exp-desc">{exp.description}</div>
-            <div className="ticket"></div>
         </div>
       );
     });
@@ -53,7 +53,7 @@ function Experience() {
           </blockquote>
         </Card.Body>
       </Card>
-      <div className="container">{exps}</div>
+      <div className="tickets">{exps}</div>
     </div>
   </experiencepage>
   )
