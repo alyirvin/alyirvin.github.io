@@ -1,0 +1,215 @@
+{
+    "projects": [
+        {
+            "title": "Autonomous Underwater Glider",
+            "dates": "August 2023 - May 2024",
+            "description": "The Autonomous Underwater Glider (AUG) Senior Design project aims to be cost-friendly and perfect for oceanic research. Throughout the year we have designed CAD models, 3D printed, coded electronics, tested the buoyancy engine, and ensured waterproofing. Challenges, like environmental damage, shipping delays, and weight control have popped up, but have only served as springboards for innovation. Exploring different tech options to improve our design, we've performed simulations and failure analysis, to ensure we are as prepared as possible. We've also crafted a detailed Gantt chart to stay on track and plan for any delays. Ultimately, our goal is to create an efficient AUG system that'll expand our knowledge of the natural world.",
+            "type": "Senior Design",
+            "images": [
+                "images/portfolio/ugg/p1.jpg",
+                "images/portfolio/ugg/p3.gif",
+                "images/portfolio/ugg/p2.jpg"
+            ],
+            "url": "glider.url",
+            "technologies": [
+                {
+                    "icon": "devicon-arduino-plain",
+                    "name": "Arduino"
+                },
+                {
+                    "icon": "devicon-jira-plain",
+                    "name": "Jira"
+                },
+                {
+                    "icon": "devicon-raspberrypi-plain",
+                    "name": "Raspberry Pi"
+                }
+            ]
+        },
+        {
+            "title": "SharkBytes",
+            "dates": "February 2024",
+            "description": "SharkBytes improves healthcare documentation and patient care with data analytics. We streamline patient charting with structured information and executive summaries. Our user-friendly dashboard presents data intuitively, while generative AI offers personalized care plans. By automating summarization and transforming medical forms, we save time and ensure accuracy. Challenges included data sourcing and AI issues, but we overcame them with training and SQL modifications, improving efficiency and functionality.",
+            "type": "Hackathon",
+            "images": [
+                "images/portfolio/sharkbytes/p1.png",
+                "images/portfolio/sharkbytes/p2.gif",
+                "images/portfolio/sharkbytes/p3.png"
+            ],
+            "url": "skarbytes.url",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "GitHub"
+                }
+            ]
+        },
+        {
+            "title": "Cubedle",
+            "dates": "October 2023",
+            "description": "Cubedle puts a spin on the classic New York Times game \"Wordle\" by offering a unique 3D experience. Featuring 5x5 grids on four faces of a cube, players can solve up to 100 word puzzles simultaneously. With a built-in keyboard, lives system, and solution and win screens, Cubedle offers a fresh take on word puzzle gaming. Whether you're a seasoned Wordle player or new to word games, Cubedle offers a challenging and immersive experience that will keep you engaged for hours.",
+            "type": "Hackathon",
+            "images": [
+                "images/portfolio/cubedle/p1.png",
+                "images/portfolio/cubedle/p2.gif"
+            ],
+            "url": "cubedle.url",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "GitHub"
+                }
+            ]
+        },
+        {
+            "title": "Lifeopoly",
+            "dates": "October 2023 - November 2023",
+            "description": "Lifeopoly was born from the need to solve indecision during game nights among friends, combining Monopoly and The Game of Life into a single, unique gaming experience. Our project for KnightHacks aimed to create a virtual simulation of this concept, featuring character pieces navigating through board actions inspired by both games. Using Unity and C#, we developed a visually appealing 3D environment with distinct scenes for gameplay and instructions. Despite challenges, including illness and unfamiliar coding languages, each team member played a significant role in bringing Lifeopoly to life. Through this experience, we gained valuable insights into Unity and C#, solidifying our skills and teamwork abilities.",
+            "type": "Hackathon",
+            "images": [
+                "images/portfolio/lifeopoly/p1.jpg",
+                "images/portfolio/lifeopoly/p2.jpg",
+                "images/portfolio/lifeopoly/p3.jpeg"
+            ],
+            "url": "lifeopoly.url",
+            "technologies": [
+                {
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
+                },
+                {
+                    "icon": "devicon-github-original",
+                    "name": "GitHub"
+                }
+            ]
+        },
+        {
+            "title": "ePortfolio",
+            "dates": "May 2023 - Present",
+            "description": "This ePortfolio project has been an opportunity for me to create a dynamic digital showcase, putting my engineering projects, experiences, and achievements on full display for friends, family, and job recruiters. With the bulk of my software experience lying in front-end development, this was the perfect challenge to begin learning web application frameworks and explore my creative side. Over the past year, I have overcome many challenges and obstacles, and been able to create an interactive and dynamic ePortfolio that conveys my personality and skills.",
+            "type": "Personal",
+            "images": [
+                "images/portfolio/ep/p1.jpg"
+            ],
+            "url": "eportfolio.url",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-json-plain",
+                    "name": "JSON"
+                },
+                {
+                    "icon": "devicon-reactbootstrap-original",
+                    "name": "Bootstrap"
+                }
+            ]
+        },
+        {
+            "title": "Knight's Bow Archery Website",
+            "dates": "August 2022 - March 2023",
+            "description": "The Knights Bow Archery website project aimed to streamline the club's signup process, providing a user-friendly platform for members and officers alike. Developed using C# in an MVC, the website featured multiple pages, including an admin login and private view for authorized personnel. Its functionality extended to adding and editing event details, presenting clear views of all signups, and automating email communication with participants. Designed to enhance efficiency and accessibility, the website served as a centralized hub for managing club activities and facilitating seamless communication between members and organizers.",
+            "type": "Personal",
+            "images": [
+                "images/portfolio/kba/p1.png",
+                "images/portfolio/kba/p2.gif"
+            ],
+            "url": "kba.url",
+            "technologies": [
+                {
+                    "icon": "devicon-visualstudio-plain",
+                    "name": "Visual Studio"
+                },
+                {
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                }
+            ]
+        },
+        {
+            "title": "L1 High-Powered Rocket",
+            "dates": "January 2023 - February 2023",
+            "description": "Undertaking a level 1 high-powered rocketry project, I designed and assembled a robust rocket, utilizing SolidWorks for fin modeling and OpenRocket for flight simulations to ensure stability. Adhering to stringent specifications and safety standards, the rocket was assembled with precision, leading to a successful launch powered by an H219 motor. Achieving an apogee of 2400 ft, the rocket demonstrated exceptional performance with minimal damage and flawless recovery, resulting in my earning of a level 1 certification from the National Association of Rocketry.",
+            "type": "Personal",
+            "images": [
+                "images/portfolio/L1/p1.jpg",
+                "images/portfolio/L1/p2.gif"
+            ],
+            "url": "rocket.url",
+            "technologies": [
+            ]
+        },
+        {
+            "title": "Mechanical Measurements Car",
+            "dates": "August 2022 - December 2022",
+            "description": "The Mechanical Measurements Car project involved designing and 3D printing a vehicle using SolidWorks to measure drag at various flow speeds, visualize flow patterns, and study hysteresis effects in a wind tunnel. The project encompassed experimental observations, overcoming challenges, and collecting data using digital data collection methods. Additionally, it included showcasing the physical model of the car and analyzing results from wind tunnel and flow velocity tests.",
+            "type": "Class",
+            "images": [
+                "images/portfolio/car/p1.png",
+                "images/portfolio/car/p2.png",
+                "images/portfolio/car/p3.png"
+            ],
+            "url": "car.url",
+            "technologies": [
+                {
+                    "icon": "devicon-labview-plain",
+                    "name": "LabVIEW"
+                }
+            ]
+        }
+    ]
+}

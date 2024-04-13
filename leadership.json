@@ -1,0 +1,81 @@
+{
+    "leadership": [
+        {
+            "company": "Underwater Glider Gold Team",
+            "title": "Team/Software Lead (2023-2024)",
+            "years": "Aug 2023 - Present",
+            "description": "UGG description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "",
+            "prevTitle": ""
+        },
+        {
+            "company": "Honors Congress",
+            "title": "President (2023)",
+            "years": "Aug 2020 - Present",
+            "description": "Honcon description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "honorscongress.com",
+            "prevTitles": "Director of Academic Affairs (2022)"
+        },
+        {
+            "company": "Honors Symposium",
+            "title": "Team Leader (2023)",
+            "years": "Aug 2023 - Dec 2023",
+            "description": "TL description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "",
+            "prevTitle": ""
+        },
+        {
+            "company": "First Step",
+            "title": "Mentor (2023-2024)",
+            "years": "Sept 2023 - Present",
+            "description": "First step description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "",
+            "prevTitle": ""
+        },
+        {
+            "company": "Tau Beta Pi",
+            "title": "Acting President (2022-2023)",
+            "years": "Mar 2023 - Present",
+            "description": "TBP description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "",
+            "prevTitles": "Vice President (2022-2023)"
+        },
+        {
+            "company": "University Honors Committee",
+            "title": "Student Member (2022-2023)",
+            "years": "Jun 2022 - Jun 2023",
+            "description": "UHC description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "",
+            "prevTitle": ""
+        },
+        {
+            "company": "Knight's Bow Archery",
+            "title": "President (2021-2022)",
+            "years": "May 2021 - Nov 2022",
+            "description": "KBA description goes here",
+            "images": [
+                "images/portfolio/ugg/l1.png"
+            ],
+            "url": "",
+            "prevTitles": "Vice President (2021)"
+        }
+    ]
+}
