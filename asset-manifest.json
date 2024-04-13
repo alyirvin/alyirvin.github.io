@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.209206b8.css",
+    "main.css": "./static/css/main.ad074039.css",
     "main.js": "./static/js/main.90945cb1.js",
     "static/media/Honors_Congress.JPG": "./static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
     "static/media/About1.JPG": "./static/media/About1.928a2fa4f49e3edbb81e.JPG",
@@ -12,7 +12,6 @@
     "static/media/London_Bridge.jpg": "./static/media/London_Bridge.86923dbac26a3b189689.jpg",
     "static/media/tornPaper.png": "./static/media/tornPaper.d31560c7b6af73aa336d.png",
     "static/media/postCard.png": "./static/media/postCard.753c5125dcba6f6d3941.png",
-    "static/media/navyTicket.png": "./static/media/navyTicket.219f62e123246ef30c2e.png",
     "static/media/dodTicket.png": "./static/media/dodTicket.9c26d1896593bc539c0a.png",
     "static/media/blankTicket.png": "./static/media/blankTicket.482201acbf22e25d68d0.png",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
@@ -20,11 +19,11 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.209206b8.css.map": "./static/css/main.209206b8.css.map",
+    "main.ad074039.css.map": "./static/css/main.ad074039.css.map",
     "main.90945cb1.js.map": "./static/js/main.90945cb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.209206b8.css",
+    "static/css/main.ad074039.css",
     "static/js/main.90945cb1.js"
   ]
 }
