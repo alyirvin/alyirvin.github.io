@@ -32,7 +32,7 @@ function Experience() {
             <div className="exp-title">{exp.title}</div>
             <div className="exp-years">{exp.years}</div>
             <div className="exp-desc">{exp.description}</div>
-            <div className="admit">ADMIT ONE</div>
+            <div className="admit"></div>
         </div>
       );
     });

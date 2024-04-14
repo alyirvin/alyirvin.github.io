@@ -1389,9 +1389,12 @@ li {
   left: -15px;
 }
 
+#navy .admit::before {
+  content: "ADMIT ONE";
+}
 
 .expTicket#dod {
-  /* background-image: url("./expImgs/navyTicket.png") !important; */
+  background-image: url("./expImgs/dodTicket.png") !important;
   display: grid;
   grid-template-areas: 
     "title title admit"
@@ -1403,18 +1406,22 @@ li {
   align-items: start;
   justify-items: start;
   font-family: 'Roboto', sans-serif;
+  color: white;
 }
 
 #dod .exp-company {
-  grid-area: company;
-  display: flex;
   align-items: center;
+  border-bottom: 2px solid white;
+  display: flex;
+  grid-area: company;
+  height: 50px;
   justify-content: center;
-  width: 470px;
-  position: absolute;
   left: 20px;
-  height: 40px;
-  border-bottom: solid 2px black;
+  position: absolute;
+  width: 470px;
+  font-size: 18pt;
+  font-weight: 700;
+  top: 28px;
 }
 
 #dod .exp-icon {
@@ -1425,7 +1432,7 @@ li {
 
 #dod .exp-title {
   grid-area: title;
-  border-bottom: solid 2px black;
+  border-bottom: solid 2px white;
   height: 40px;
   display: flex;
   justify-content: center;
@@ -1438,6 +1445,15 @@ li {
 #dod .exp-years {
   grid-area: years;
   justify-self: start;
+  border-right: solid 1px white;
+  width: 100px;
+  height: 45px;
+  position: absolute;
+  left: 15px;
+  bottom: 20px;
+  font-size: 13pt;
+  display: flex;
+  align-items: center;
 }
 
 #dod .exp-desc {
@@ -1448,4 +1464,17 @@ li {
 #dod .admit {
   grid-area: admit;
   justify-self: end;
+  transform: rotate(-90deg);
+  border: solid 2px white;
+  border-radius: 5px;
+  width: 189px;
+  height: 85px;
+  position: absolute;
+  left: 60px;
+  top: 67px;
+  font-size: 25pt;
+}
+
+#dod .admit::before {
+  content: "ADMIT ONE N333333";
 }
