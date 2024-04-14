@@ -1428,18 +1428,27 @@ li {
   grid-area: icon;
   justify-self: center;
   background: url('./expImgs/cryogenic.png');
+  background-image: linear-gradient(to right, transparent 50%, url('./expImgs/cryogenic.png') 50%);
+  background-size: 200% 100%;
+  height: 25px;
+  width: 455px;
+  position: absolute;
+  left: 26px;
+  top: 23px;
 }
 
 #dod .exp-title {
   grid-area: title;
   border-bottom: solid 2px white;
-  height: 40px;
   display: flex;
   justify-content: center;
-  width: 470px;
   position: absolute;
   left: 20px;
   align-items: center;
+  width: 470px;
+  font-weight: 900;
+  height: 70px;
+  font-size: 28pt;
 }
 
 #dod .exp-years {
