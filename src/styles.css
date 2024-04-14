@@ -1321,7 +1321,7 @@ li {
   border-bottom: 1px solid black;
   border-top: 1px solid black;
   height: 53px;
-  margin: 19px 0 0 15px;
+  margin: 19px 10px 0 15px;
   display: flex;
   align-items: center;
 }
@@ -1338,13 +1338,16 @@ li {
 
 #navy .exp-title {
   grid-area: title;
-  font-size: 16.5pt;
+  font-size: 21.9pt;
   font-weight: bold;
   border-bottom: 1px solid black;
   height: 75px;
   display: flex;
   align-items: center;
   font-family: 'Roboto Condensed', sans-serif !important;
+  margin-left: 20px;
+  width: 475px;
+  justify-content: center;
 }
 
 #navy .exp-years {
@@ -1356,14 +1359,17 @@ li {
   height: 53px;
   display: flex;
   align-items: center;
+  margin: 19px 0 0 10px;
 }
 
 #navy .exp-desc {
   grid-area: desc;
   justify-self: start;
-  margin: 0 0 0 20px;
   font-size: 7pt;
   text-align: left;
+  position: absolute;
+  bottom: 14px;
+  left: 20px;
 }
 
 #navy .admit {
@@ -1378,4 +1384,53 @@ li {
   align-self: center;
   transform: rotate(-90deg);
   width: 190px;
+  position: absolute;
+  bottom: 65px;
+  left: -15px;
+}
+
+
+.expTicket#dod {
+  /* background-image: url("./expImgs/navyTicket.png") !important; */
+  display: grid;
+  grid-template-areas: 
+    "title title admit"
+    "company company admit"
+    "icon icon admit"
+    "years desc admit";
+  grid-template-rows: auto auto auto auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: start;
+  justify-items: start;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#dod .exp-company {
+  grid-area: company;
+  justify-self: start;
+}
+
+#dod .exp-icon {
+  grid-area: icon;
+  justify-self: center;
+}
+
+#dod .exp-title {
+  grid-area: title;
+  justify-self: start;
+}
+
+#dod .exp-years {
+  grid-area: years;
+  justify-self: start;
+}
+
+#dod .exp-desc {
+  grid-area: desc;
+  justify-self: start;
+}
+
+#dod .admit {
+  grid-area: admit;
+  justify-self: end;
 }
