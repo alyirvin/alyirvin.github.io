@@ -1504,7 +1504,7 @@ li {
     "years years admit";
   grid-template-rows: auto auto auto auto;
   grid-template-columns: 1fr 2fr 1fr;
-  background-image: url('path_to_your_ticket_image');
+  background-image: url('./expImgs/blankTicket.png');
   background-size: cover;
   font-family: 'Roboto', sans-serif;
 }
