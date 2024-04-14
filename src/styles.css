@@ -1407,17 +1407,32 @@ li {
 
 #dod .exp-company {
   grid-area: company;
-  justify-self: start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 470px;
+  position: absolute;
+  left: 20px;
+  height: 40px;
+  border-bottom: solid 2px black;
 }
 
 #dod .exp-icon {
   grid-area: icon;
   justify-self: center;
+  background: url('./expImgs/cryogenic.png');
 }
 
 #dod .exp-title {
   grid-area: title;
-  justify-self: start;
+  border-bottom: solid 2px black;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  width: 470px;
+  position: absolute;
+  left: 20px;
+  align-items: center;
 }
 
 #dod .exp-years {
