@@ -1298,7 +1298,7 @@ li {
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
 
 .expTicket#navy {
   background-image: url("./expImgs/navyTicket.png") !important;
@@ -1402,7 +1402,7 @@ li {
   grid-template-columns: 1fr 1fr 1fr;
   align-items: start;
   justify-items: start;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 #dod .exp-company {
