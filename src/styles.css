@@ -1301,6 +1301,8 @@ li {
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
+
 
 .expTicket#navy {
   background-image: url("./expImgs/blankTicket.png") !important;
@@ -1391,6 +1393,8 @@ li {
   transform: rotate(-90deg);
   width: 203px;
   border: solid 3px #2E376F;
+  position: absolute;
+  left: -20px;
 }
 
 #navy .admit::before {
@@ -1508,12 +1512,26 @@ li {
     "years years admit";
   grid-template-rows: auto auto auto auto;
   grid-template-columns: 1fr 2fr 1fr;
-  background-image: url('./expImgs/blankTicket.png');
-  font-family: 'Fredoka One', cursive;
+  background-image: url('./expImgs/utaTicket.png');
+  /* font-family: 'Fredoka One', cursive; */
+  font-family: 'Bubblegum Sans', cursive;
 }
 
 #uta .exp-company {
   grid-area: company;
+  text-shadow: 2px 2px 0px rgba(0,0,0,0.3);
+  color: gold;
+  font-size: 16pt;
+  display: flex;
+  position: absolute;
+  width: 480px;
+  left: -140px;
+  align-items: center;
+  justify-content: center;
+  top: 20px;
+  height: 50px;
+  border-left: solid 5px gold;
+  border-right: solid 5px gold;
 }
 
 #uta .exp-icon {
@@ -1522,19 +1540,62 @@ li {
 
 #uta .exp-title {
   grid-area: title;
+  text-shadow: 2px 2px 0px rgba(0,0,0,0.3);
+  border-top: solid 5px gold;
+  color: gold;
+  width: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: -140px;
+  top: 15px;
+  height: 60px;
+  font-size: 19pt;
+  border-left: solid 5px gold;
+  border-right: solid 5px gold;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 #uta .exp-years {
   grid-area: years;
+  color: gold;
+  position: absolute;
+  left: 18px;
+  border: solid 5px gold;
+  top: 17px;
+  width: 480px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 #uta .exp-desc {
   grid-area: desc;
+  position: absolute;
+  left: 18px;
+  color: gold;
+  top: 14px;
+  width: 480px;
+  border-left: solid 5px gold;
+  height: 66px;
+  border-right: solid 5px gold;
+  border-top: solid 5px gold;
 }
 
 #uta .admit {
   grid-area: admit;
   transform: rotate(-90deg);
+  color: gold;
+  position: absolute;
+  font-size: 20pt;
+  top: 64px;
+  left: 6px;
+  width: 190px;
+  height: 87px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #uta .admit::before {
