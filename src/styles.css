@@ -1299,6 +1299,8 @@ li {
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 .expTicket#navy {
   background-image: url("./expImgs/blankTicket.png") !important;
@@ -1315,15 +1317,16 @@ li {
 }
 
 #navy .exp-company {
-  grid-area: company;
-  justify-self: start;
-  font-size: 13pt;
-  border-bottom: 1px solid black;
-  border-top: 1px solid black;
-  height: 53px;
-  margin: 19px 10px 0 15px;
-  display: flex;
   align-items: center;
+  border-bottom: 2px solid #2E376F;
+  border-top: 2px solid #2E376F;
+  display: flex;
+  font-size: 13pt;
+  grid-area: company;
+  height: 53px;
+  justify-self: start;
+  margin: 19px 10px 0 15px;
+  color: #3AAB3C;
 }
 
 #navy .exp-icon {
@@ -1340,7 +1343,8 @@ li {
   grid-area: title;
   font-size: 21.9pt;
   font-weight: bold;
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid #2E376F;
+  color: #3AAB3C;
   height: 75px;
   display: flex;
   align-items: center;
@@ -1354,12 +1358,13 @@ li {
   grid-area: years;
   justify-self: end;
   font-size: 13pt;
-  border-bottom: 1px solid black;
-  border-top: 1px solid black;
+  border-bottom: 2px solid #2E376F;
+  border-top: 2px solid #2E376F;
   height: 53px;
   display: flex;
   align-items: center;
   margin: 19px 0 0 10px;
+  color: #3AAB3C;
 }
 
 #navy .exp-desc {
@@ -1370,23 +1375,22 @@ li {
   position: absolute;
   bottom: 14px;
   left: 20px;
+  color: #3AAB3C;
 }
 
 #navy .admit {
-  grid-area: admit;
-  background-color: #c9e2d4;
-  border-radius: 15px;
-  color: #DBE9E1;
-  font-size: 27pt;
-  font-weight: 700;
-  height: 90px;
-  justify-self: center;
   align-self: center;
-  transform: rotate(-90deg);
-  width: 190px;
-  position: absolute;
+  border-radius: 15px;
   bottom: 65px;
-  left: -15px;
+  color: #3AAB3C;
+  font-size: 26pt;
+  font-weight: 700;
+  grid-area: admit;
+  height: 90px;
+  position: absolute;
+  transform: rotate(-90deg);
+  width: 203px;
+  border: solid 3px #2E376F;
 }
 
 #navy .admit::before {
@@ -1505,8 +1509,7 @@ li {
   grid-template-rows: auto auto auto auto;
   grid-template-columns: 1fr 2fr 1fr;
   background-image: url('./expImgs/blankTicket.png');
-  background-size: cover;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Fredoka One', cursive;
 }
 
 #uta .exp-company {
