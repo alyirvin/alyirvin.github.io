@@ -4,7 +4,7 @@
             "company": "Underwater Glider Gold Team",
             "title": "Team/Software Lead (2023-2024)",
             "years": "Aug 2023 - Present",
-            "description": "UGG description goes here",
+            "description": "As the Team and Software Lead, I directed a team of 6 in the construction of an autonomous underwater glider driven by a buoyancy engine, with a remarkable 5-nautical-mile range. I took charge of authoring preliminary design and research documents, meticulously identifying user and sponsor requirements while employing trade studies to select optimal parts. Leveraging my expertise, I developed a sophisticated robotic system integrating path-planning, obstacle avoidance, data collection, and storage functionalities using a Raspberry Pi. Furthermore, I implemented an inertial navigation system enhanced with integrated proximity sensors and machine learning algorithms to significantly enhance navigation accuracy.",
             "images": [
                 "images/portfolio/ugg/l1.png"
             ],
@@ -26,7 +26,7 @@
             "company": "Honors Symposium",
             "title": "Team Leader (2023)",
             "years": "Aug 2023 - Dec 2023",
-            "description": "TL description goes here",
+            "description": "In the role of Team Leader, I spearheaded a group of 15+ Burnett Honors scholars, offering mentorship and networking opportunities to support their personal, academic, and professional growth. Through weekly discussions and activities, I fostered skill development in problem-solving, leadership, professionalism, and work-life balance. Additionally, I organized events aimed at fostering community engagement and introduced members to over 10 campus organizations, societies, and resources. Moreover, I established and maintained connections with more than 15 industry professionals across various fields, providing valuable networking opportunities for students.",
             "images": [
                 "images/portfolio/tl/l1.png"
             ],
@@ -37,7 +37,7 @@
             "company": "First Step",
             "title": "Mentor (2023-2024)",
             "years": "Sept 2023 - Present",
-            "description": "First step description goes here",
+            "description": "As a mentor, I provided tailored guidance to seven freshman engineering students, equipping them with essential skills and strategies for navigating internship fairs and industry networking. I emphasized the effective utilization of extracurricular activities to enhance internship prospects and conducted thorough resume reviews and elevator pitch practice sessions to bolster their presentation skills. Collaborating closely with a team of 31 mentors, we ensured that all mentees received comprehensive support and constructive feedback from diverse sources, fostering their professional growth and development.",
             "images": [
                 "images/portfolio/firststep/l1.png"
             ],
@@ -48,7 +48,7 @@
             "company": "Tau Beta Pi",
             "title": "Acting President (2022-2023)",
             "years": "Mar 2023 - Present",
-            "description": "TBP description goes here",
+            "description": "As Acting President, I took charge of organizing the District 5 Conference, overseeing registration, tours, and meals for 50+ delegates and advisors. I implemented protocols to efficiently communicate officer board decisions to our extensive membership of 150+. Additionally, I successfully led the initiation of 52 individuals into our organization, including 39 undergraduate students, 12 graduate students, and 1 eminent engineer. Acting as a key liaison between TBP HQ, UCF, and our FLD chapter, I ensured smooth communication channels through emails, forms, and other documentation.",
             "images": [
                 "images/portfolio/tbp/l1.jpg"
             ],
@@ -59,7 +59,7 @@
             "company": "University Honors Committee",
             "title": "Student Member (2022-2023)",
             "years": "Jun 2022 - Jun 2023",
-            "description": "UHC description goes here",
+            "description": "As a Student Committee Representative, I served as a liaison between the student body and a committee comprised of 15 faculty members, actively contributing input to shape the curriculum and awards program. I played a crucial role in reviewing and approving proposed honors interdisciplinary seminars, offering constructive feedback to enhance their development. Utilizing strong communication skills, I fostered effective collaboration with faculty members, providing a valuable student perspective that enriched decision-making processes.",
             "images": [
                 "images/portfolio/uhc/l1.png"
             ],
@@ -70,7 +70,7 @@
             "company": "Knight's Bow Archery",
             "title": "President (2021-2022)",
             "years": "May 2021 - Nov 2022",
-            "description": "KBA description goes here",
+            "description": "As president, I prioritized cultivating a cohesive and supportive community within the organization by facilitating interactions between officers and members. Serving as a founding officer, I established robust procedures and protocols for both internal operations and external facility engagements. Overseeing the planning and execution of more than 50 range day and club events, I ensured members had ample opportunities for individual coaching and skill development. Additionally, I spearheaded the creation of a user-friendly website using C# and HTML in an MVC pattern, centralizing club information and streamlining the signup process for enhanced accessibility and engagement.",
             "images": [
                 "images/portfolio/kba/l1.jpg"
             ],
