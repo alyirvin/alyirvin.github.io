@@ -20,7 +20,7 @@
                 "images/portfolio/honcon/l1.jpg"
             ],
             "url": "honorscongress.com",
-            "prevTitles": "Previous Title: Director of Academic Affairs (2022)"
+            "prevTitle": "Previous Title: Director of Academic Affairs (2022)"
         },
         {
             "company": "Honors Symposium",
@@ -53,7 +53,7 @@
                 "images/portfolio/tbp/l1.jpg"
             ],
             "url": "",
-            "prevTitles": "Previous Title: Vice President (2022-2023)"
+            "prevTitle": "Previous Title: Vice President (2022-2023)"
         },
         {
             "company": "University Honors Committee",
@@ -75,7 +75,7 @@
                 "images/portfolio/kba/l1.jpg"
             ],
             "url": "",
-            "prevTitles": "Previous Title: Vice President (2021)"
+            "prevTitle": "Previous Title: Vice President (2021)"
         }
     ]
 }
