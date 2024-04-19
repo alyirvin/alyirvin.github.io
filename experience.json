@@ -20,13 +20,14 @@
             "years": "JAN 2023 - MAY 2024",
             "description": "Discover the invaluable support of our Undergraduate Teaching Assistant from the University of Central Florida! They conducted weekly office hours, developed examination rubrics, facilitated review sessions, and ensured consistent evaluation standards for homework and exams in courses like Heat Transfer and Solid Mechanics. With their guidance, over 200 students received constructive feedback and guidance, leading to a great learning experience!",
             "label": "uta"
-        },
-        {
-            "company": "Hybrid Materials and Surface Lab",
-            "title": "Undergraduate Researcher",
-            "years": "Oct 2020 - Dec 2022",
-            "description": "research description goes here",
-            "label": "lab"
         }
-    ]
+    ],
+    "hidden":
+    {
+        "company": "Hybrid Materials and Surface Lab",
+        "title": "Undergraduate Researcher",
+        "years": "Oct 2020 - Dec 2022",
+        "description": "research description goes here",
+        "label": "lab"
+    }
 }
