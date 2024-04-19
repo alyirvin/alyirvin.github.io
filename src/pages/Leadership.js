@@ -128,9 +128,15 @@ function Leadership() {
               height: '100%',
               width: '100%',
               backgroundColor: 'white',
-              transform: 'rotateY(180deg)'
+              transform: 'rotateY(180deg)',
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'space-between'
             }}>
               {lead.description}
+              <div style={{ alignSelf: 'flex-end' }}>
+                {lead.prevTitle}
+              </div>
             </div>
           ) : (
             <>
@@ -173,6 +179,16 @@ function Leadership() {
         </Card.Body>
       </Card> */}
       <div class="lead-background">
+        <div class="lead-title">
+          Leadership experiences on campus have been invaluable opportunities to create lasting memories 
+          and meaningful experiences for both myself and many others. Through organizing events, leading 
+          student organizations, and spearheading initiatives, I have been able to provide spaces on 
+          campus for students to express themselves, network, and develop skills. In each of these roles, 
+          I have been able to deepen my understanding of teamwork, communication, and problem-solving 
+          while fostering lifelong connections and leaving a positive impact on my campus  communities. 
+          Each leadership opportunity has been a journey of growth, and will  forever be one of the 
+          greatest experiences of my time in undergrad!
+        </div>
         <div class="lead-quote">How lucky I am to have something that makes saying goodbye so hard</div>
       </div>
       <div className="row mx-auto" style={{rowGap:30, columnGap:70, width: 1550}}>{leads}</div>

@@ -105,13 +105,23 @@ function Projects() {
     projects = projectsData.projects.map(function (project, index) {
       let tech = project.technologies.map((icons, i) => {
         return(
-          <li className="list-inline-item mx-3" style={{width: 55, height: 55, border: 'solid'}}key={i}>
+          <li className="list-inline-item" 
+            style={{
+              width: 55, 
+              height: 55, 
+              border: 'solid',
+              marginLeft: '0.5rem',
+              marginRight: '0.5rem',
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+            }}key={i}>
             <span>
               <div className="text-center">
                 <i className={icons.icon} style={{ fontSize: "300%" }}>
-                  <p className="text-center" style={{ fontSize: "30%", marginTop: 5}}>
+                  {/* <p className="text-center" style={{ fontSize: "30%", marginTop: 5}}>
                     {icons.name}
-                  </p>
+                  </p> */}
                 </i>
               </div>
             </span>
@@ -207,8 +217,8 @@ function Projects() {
         but also a more effective team member.
         </p>
         <p className="project-Quote">
-        "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
-        <br />- Samuel Beckett in <cite title="Source Title">Worstward Ho</cite>
+        "Try Again. Fail again. Fail better."
+        <br />- Samuel Beckett
         </p>
       </div>
       <div className="row mx-auto" style={{rowGap:30, columnGap:70}}>{projects}</div>

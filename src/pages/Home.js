@@ -193,13 +193,12 @@ function Home() {
                       className="card-body font-trebuchet text-justify ml-3 mr-3"
                       style={{
                         height: "auto",
-                        fontSize: "132%",
+                        fontSize: "160%",
                         lineHeight: "200%",
                       }}
                     >
                       <br />
                       <span className="wave">{resumeData.basic_info?.description_header} :D </span>
-                      {/* <span className="wave">Hello! :D </span> */}
                       <br />
                       <br />
                       {resumeData.basic_info?.description}

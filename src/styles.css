@@ -479,7 +479,7 @@ header h1 {
 }
 
 .wave {
-    font-size: 160%;
+    font-size: 200%;
 }
 
 .font-trebuchet {
@@ -1205,11 +1205,12 @@ li {
   width: 50%;
   padding-left: 77px;
   padding-right: 15px;
-  top: 200px;
+  top: 191px;
   position: relative;
-  line-height: 3;
+  line-height: 1.7;
   word-spacing: -1px;
   text-align: left;
+  font-size: 14pt;
 }
 
 .flipLead
@@ -1255,27 +1256,38 @@ li {
 .lead-background 
 {
   background-image: url('./leadImgs/tornPaper.png');
-  width: 600px;
-  height: 240px;
-  position: relative;
-  background-size: contain;
+  background-size: 100% 100%;
+  height: 288px;
   left: 50%;
+  margin: 50px 0 20px 0;
+  position: relative;
   transform: translateX(-50%);
-  margin: 50px 0;
+  width: 820px;
+}
+
+.lead-title {
+  font-size: 15pt;
+  font-family: 'Patrick Hand', cursive;
+  width: 700px;
+  position: absolute;
+  left: 67px;
+  top: 32px;
+  text-align: justify;
 }
 
 .lead-quote
 {
-  height: 120px;
-  width: 100px;
   background-color: #e8d8c3;
-  font-size: 9.5pt;
-  font-family: 'Courier New', Courier, monospace;
-  padding-top: 8px;
-  color: black;
+  color: #000;
+  font-family: Courier New, Courier, monospace;
+  font-size: 10pt;
+  height: 100px;
+  padding-top: 12px;
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: -24px;
+  bottom: -35px;
+  width: 130px;
+  border-radius: 6%;
 }
 
 .expTicket 
@@ -1378,6 +1390,7 @@ li {
   bottom: 14px;
   left: 20px;
   color: #3AAB3C;
+  text-shadow: 0px 0px 1px #3aab3c;
 }
 
 #navy .admit {
@@ -1518,20 +1531,21 @@ li {
 }
 
 #uta .exp-company {
-  grid-area: company;
-  text-shadow: 2px 2px 0px rgba(0,0,0,0.3);
-  color: gold;
-  font-size: 16pt;
-  display: flex;
-  position: absolute;
-  width: 480px;
-  left: -140px;
   align-items: center;
+  border-left: 5px solid gold;
+  border-right: 5px solid gold;
+  color: gold;
+  display: flex;
+  font-size: 20pt;
+  grid-area: company;
+  height: 30px;
   justify-content: center;
+  left: -140px;
+  position: absolute;
+  text-shadow: 2px 2px 0 #0000004d;
   top: 20px;
-  height: 50px;
-  border-left: solid 5px gold;
-  border-right: solid 5px gold;
+  width: 480px;
+  padding-bottom: 15px;
 }
 
 #uta .exp-icon {
@@ -1559,45 +1573,54 @@ li {
 }
 
 #uta .exp-years {
-  grid-area: years;
   color: gold;
-  position: absolute;
   left: 18px;
-  border: solid 5px gold;
-  top: 17px;
+  position: absolute;
   width: 480px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-}
-
-#uta .exp-desc {
-  grid-area: desc;
-  position: absolute;
-  left: 18px;
-  color: gold;
-  top: 14px;
-  width: 480px;
-  border-left: solid 5px gold;
-  height: 66px;
-  border-right: solid 5px gold;
-  border-top: solid 5px gold;
-}
-
-#uta .admit {
-  grid-area: admit;
-  transform: rotate(-90deg);
-  color: gold;
-  position: absolute;
-  font-size: 20pt;
-  top: 64px;
-  left: 6px;
-  width: 190px;
-  height: 87px;
+  grid-area: years;
+  top: 8px;
+  height: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
+  letter-spacing: 9px;
+  border: solid 5px gold;
+  border-top: solid 3px gold;
+}
+
+#uta .exp-desc {
+  border-left: 5px solid gold;
+  border-right: 5px solid gold;
+  border-top: 3px solid gold;
+  grid-area: desc;
+  height: 90px;
+  top: -5px;
+  font-size: 8pt;
+  text-align: left;
+  padding: 7px 5px;
+  color: gold;
+  left: 18px;
+  position: absolute;
+  width: 480px;
+}
+
+#uta .admit {
+  align-items: center;
+  color: gold;
+  display: flex;
+  font-size: 24pt;
+  grid-area: admit;
+  height: 87px;
+  justify-content: center;
+  left: 6px;
+  position: absolute;
+  top: 64px;
+  transform: rotate(-90deg);
+  width: 190px;
 }
 
 #uta .admit::before {
-  content: "UTA'S ONLY ADMIT ONE";
+  content: "-TA'S ONLY- ADMIT ONE";
 }
