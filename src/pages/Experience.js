@@ -21,7 +21,6 @@ function Experience() {
 
   let exps;
 
-  console.log(expData.experience);
   if (expData.experience)
   {
     exps = expData.experience.map(function (exp, index) {

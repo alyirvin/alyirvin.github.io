@@ -131,10 +131,12 @@ function Leadership() {
               transform: 'rotateY(180deg)',
               display: 'flex',
               flexDirection: 'column',
-              justifyContent: 'space-between'
+              justifyContent: 'space-between',
+              fontSize: '12pt',
+              padding: '10px'
             }}>
               {lead.description}
-              <div style={{ alignSelf: 'flex-end' }}>
+              <div style={{ alignSelf: 'flex-end'}}>
                 {lead.prevTitle}
               </div>
             </div>
