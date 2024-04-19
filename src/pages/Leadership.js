@@ -135,7 +135,7 @@ function Leadership() {
             }}>
               {lead.description}
               <div style={{ alignSelf: 'flex-end' }}>
-                {lead.prevTitle}
+                {lead.prevTitles}
               </div>
             </div>
           ) : (
