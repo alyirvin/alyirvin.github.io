@@ -60,7 +60,8 @@ function Experience() {
           <div className="exp-poster">
             <img src="/posterImg.png" alt="research poster" style={{width: '90%', height: 'auto', paddingTop: '5%'}}/>
             <h1 style={{margin: 0}} className="exp-poster-header">EXPERIENCE</h1>
-            <p style={{fontSize:'11pt', textAlign: 'justify', padding: '0 2%', margin: 0}} className="exp-poster-cont">Real-world experiences have been vital in shaping my career trajectory. Internships 
+            <p style={{fontSize:'11pt', textAlign: 'justify', padding: '0 2%', margin: 0}} className="exp-poster-cont">
+              Real-world experiences have been vital in shaping my career trajectory. Internships 
               and research opportunities have provided firsthand insights into different industries 
               and companies, helping me discover my passions and set new goals. Each project 
               and task has offered valuable learning experiences, guiding me towards clearer 
@@ -73,7 +74,7 @@ function Experience() {
               position: 'absolute',
               bottom: '0px',
               fontSize: '12pt',
-              backgroundColor: '#708090 ',
+              backgroundColor: 'lightblue ',
               color: 'white',
               width: '100%',
               height: '30px',
