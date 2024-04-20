@@ -58,10 +58,18 @@ function Experience() {
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           {exps}
           <div className="exp-poster">
-            <img src="./../expImgs/posterImg.png" alt="research poster" />
+            <img src="posterImg.png" alt="research poster" />
             <h1>EXPERIENCE</h1>
-            <p>Your paragraph text here</p>
-            <div>Your small div content here</div>
+            <p>Real-world experiences have been vital in shaping my career trajectory. Internships 
+              and research opportunities have provided firsthand insights into different industries 
+              and companies, helping me discover my passions and set new goals. Each project 
+              and task has offered valuable learning experiences, guiding me towards clearer 
+              career aspirations and a deeper understanding of my professional interests. Through 
+              these experiences, I've gained a deeper understanding of my interests and 
+              have developed further determination to pursue my chosen path with confidence 
+              and purpose, always with the goal of making a positive impact and viewing each 
+              opportunity within the broader context of bettering the world around me.</p>
+            <div style="position: absolute; bottom: 0;">"In the pursuit of great, we failed to do good." -Viktor</div>
           </div>
         </div>
         <div style={{ color: 'rgb(233, 213, 161)' }}>.</div>
