@@ -1318,7 +1318,7 @@ li {
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 .exp-poster {
-  width: 40%;
+  width: 35%;
   position: absolute;
   right: 3%;
   top: 50%;
@@ -1340,7 +1340,6 @@ li {
 
 .exp-poster.quote {
   font-family: 'Open Sans', sans-serif;
-  font-size: 12pt;
 }
 
 .expTicket#navy {

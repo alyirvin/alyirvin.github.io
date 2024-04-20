@@ -72,7 +72,7 @@ function Experience() {
             <div style={{
               position: 'absolute',
               bottom: '0px',
-              fontSize: '10pt',
+              fontSize: '12pt',
               backgroundColor: '#708090 ',
               color: 'white',
               width: '100%',
