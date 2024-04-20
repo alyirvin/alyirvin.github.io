@@ -54,7 +54,18 @@ function Experience() {
           </blockquote>
         </Card.Body>
       </Card> */}
-      <div className="tickets">{exps}</div>
+      <div className="tickets" style={{ display: 'flex', flexDirection: 'column' }}>
+        <div style={{ display: 'flex', flexDirection: 'row' }}>
+          {exps}
+          <div className="exp-poster">
+            <img src="../expImgs/posterImg" alt="research poster" />
+            <h1>Your Header Title</h1>
+            <p>Your paragraph text here</p>
+            <div>Your small div content here</div>
+          </div>
+        </div>
+        <div style={{ color: 'rgb(233, 213, 161)' }}>.</div>
+      </div>
     </div>
   </experiencepage>
   )
