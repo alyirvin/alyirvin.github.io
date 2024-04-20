@@ -55,7 +55,7 @@ function Experience() {
         </Card.Body>
       </Card> */}
       <div className="tickets" style={{ display: 'flex', flexDirection: 'column' }}>
-        <div style={{ display: 'flex', flexDirection: 'row' }}>
+        <div style={{ display: 'flex', flexDirection: 'column' }}>
           {exps}
           <div className="exp-poster">
             <img src="./../expImgs/posterImg.png" alt="research poster" />
