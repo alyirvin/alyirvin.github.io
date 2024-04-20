@@ -69,7 +69,7 @@ function Experience() {
               have developed further determination to pursue my chosen path with confidence 
               and purpose, always with the goal of making a positive impact and viewing each 
               opportunity within the broader context of bettering the world around me.</p>
-            <div style="position: absolute; bottom: 0;">"In the pursuit of great, we failed to do good." -Viktor</div>
+            <div style={{position: 'absolute', bottom: 0}}>"In the pursuit of great, we failed to do good." -Viktor</div>
           </div>
         </div>
         <div style={{ color: 'rgb(233, 213, 161)' }}>.</div>
