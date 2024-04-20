@@ -1315,6 +1315,15 @@ li {
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap');
 
+.exp-poster {
+  width: 40%;
+  position: absolute;
+  right: 3%;
+  top: 50%;
+  height: 600px;
+  background-color: white;
+  transform: translateY(-40%);
+}
 
 .expTicket#navy {
   background-image: url("./expImgs/blankTicket.png") !important;
@@ -1625,38 +1634,3 @@ li {
   content: "-TA'S ONLY- ADMIT ONE";
 }
 
-/* .expTicket#lab {
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-  grid-template-rows: repeat(3, 1fr);
-  background-image: url('your-image-url');
-}
-
-.expTicket > .exp-company {
-  grid-column: 2;
-  grid-row: 1;
-}
-
-.expTicket > .exp-title {
-  grid-column: 2;
-  grid-row: 2;
-}
-
-.expTicket > .exp-icon {
-  grid-column: 2;
-  grid-row: 3;
-}
-
-.expTicket > .exp-desc {
-  grid-column: 1;
-  grid-row: 1 / span 2;
-}
-
-.expTicket > .exp-years {
-  grid-column: 1;
-  grid-row: 3;
-}
-
-.expTicket > .admit {
-  grid-column: 3;
-} */

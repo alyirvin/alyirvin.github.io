@@ -58,8 +58,8 @@ function Experience() {
         <div style={{ display: 'flex', flexDirection: 'row' }}>
           {exps}
           <div className="exp-poster">
-            <img src="../expImgs/posterImg" alt="research poster" />
-            <h1>Your Header Title</h1>
+            <img src="./../expImgs/posterImg.png" alt="research poster" />
+            <h1>EXPERIENCE</h1>
             <p>Your paragraph text here</p>
             <div>Your small div content here</div>
           </div>
