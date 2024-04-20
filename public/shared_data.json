@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/alyirvin",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "www.linkedin.com/in/alyshairvin",
+          "class": "fa fa-linkedin-square"
         }
       ],
       "image": "Girls_Who_Cant_Code.jpg"

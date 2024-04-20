@@ -58,7 +58,7 @@ function Experience() {
         <div style={{ display: 'flex', flexDirection: 'column' }}>
           {exps}
           <div className="exp-poster">
-            <img src="/posterImg.png" alt="research poster" style={{width: '90%', height: '60%', paddingTop: '5%'}}/>
+            <img src="/posterImg.png" alt="research poster" style={{width: '90%', height: 'auto', paddingTop: '5%'}}/>
             <h1 style={{margin: 0}} className="exp-poster-header">EXPERIENCE</h1>
             <p style={{fontSize:'11pt', textAlign: 'justify', padding: '0 2%', margin: 0}} className="exp-poster-cont">Real-world experiences have been vital in shaping my career trajectory. Internships 
               and research opportunities have provided firsthand insights into different industries 

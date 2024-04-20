@@ -1325,7 +1325,7 @@ li {
   height: 650px;
   background-color: #708090;
   background: linear-gradient(to bottom, #708090 0%, #708090 40%, white 60%);
-  transform: translateY(-40%);
+  transform: translateY(-45%);
 }
 
 .exp-poster.header {
