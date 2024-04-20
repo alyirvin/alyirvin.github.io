@@ -11,7 +11,7 @@ export default function Navbar() {
         <CustomLink to="/projects">Projects</CustomLink>
         <CustomLink to="/leadership">Leadership</CustomLink>
         <CustomLink to="/experience">Experience</CustomLink>
-        <a href="/Alysha_Irvin_CV.pdf" target="_blank">CV</a>
+        <a href="/Alysha_Irvin_Resume.pdf" target="_blank">CV</a>
       </ul>
     </nav>
   )

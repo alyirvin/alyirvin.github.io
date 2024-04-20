@@ -1323,16 +1323,24 @@ li {
   right: 3%;
   top: 50%;
   height: 650px;
-  background-color: #708090 ;
+  background-color: #708090;
+  background: linear-gradient(to bottom, #708090 0%, #708090 40%, white 60%);
   transform: translateY(-40%);
 }
 
 .exp-poster.header {
   font-family: 'Playfair Display', serif;
+  font-size: 20pt;
+  letter-spacing: 3pt;
 }
 
 .exp-poster-cont {
   font-family: 'Open Sans', sans-serif;
+}
+
+.exp-poster.quote {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12pt;
 }
 
 .expTicket#navy {

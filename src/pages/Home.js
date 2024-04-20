@@ -147,9 +147,9 @@ function Home() {
 
   return (
     <page>
-      <header style={{ height: window.innerHeight - 140, display: 'block' }}>
+      {/* <header style={{ height: window.innerHeight - 140, display: 'block' }}>
         <h1>here!</h1>
-      </header>
+      </header> */}
         <section id="about">
           <div className="col-md-12">
             <h1 style={{ color: "black" }}>
