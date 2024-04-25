@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ff011230.css",
-    "main.js": "./static/js/main.7114053c.js",
+    "main.css": "./static/css/main.5c561235.css",
+    "main.js": "./static/js/main.1c2c6a22.js",
     "static/media/Honors_Congress.JPG": "./static/media/Honors_Congress.9f136f102f645fc5ad70.JPG",
     "static/media/About1.JPG": "./static/media/About1.928a2fa4f49e3edbb81e.JPG",
     "static/media/About5.JPG": "./static/media/About5.b6e2ae6e5512b7dd06df.JPG",
@@ -20,11 +20,11 @@
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.ff011230.css.map": "./static/css/main.ff011230.css.map",
-    "main.7114053c.js.map": "./static/js/main.7114053c.js.map"
+    "main.5c561235.css.map": "./static/css/main.5c561235.css.map",
+    "main.1c2c6a22.js.map": "./static/js/main.1c2c6a22.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff011230.css",
-    "static/js/main.7114053c.js"
+    "static/css/main.5c561235.css",
+    "static/js/main.1c2c6a22.js"
   ]
 }
