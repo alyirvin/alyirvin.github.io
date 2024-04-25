@@ -134,7 +134,7 @@ function Leadership() {
               justifyContent: 'space-between',
               fontSize: '11pt',
               padding: '10px',
-              fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;'
+              fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif'
             }}>
               {lead.description}
               <div style={{ alignSelf: 'flex-end'}}>
